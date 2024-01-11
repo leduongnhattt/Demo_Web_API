@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FiKq6SFXGlluYRuoZ3GpTBVujrCJg9vYHVpock40OH6Wk3ZqS7SVSrbFlBjII6CNQAChZDSsFAfYs4zUYeyMig==",
+  "success": true,
+  "projectFilePath": "D:\\WebAPI\\Lesson1API\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\84818\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\84818\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\84818\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\84818\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
